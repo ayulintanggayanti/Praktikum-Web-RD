@@ -1,0 +1,44 @@
+h1{
+   
+    font-family: 'Snap ITC';
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin: 20px;
+    color:darkslategray;
+}
+
+body {
+    font-family: 'Viner Hand ITC';
+    background-image: url("gambar_buah.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-bottom: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+head{
+    background-color:burlywood;
+    width: 100%;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    background-color:burlywood;
+    /* margin-right: 55%; */
+    width: 45%;
+    height: 450px;
+    padding: 10px;
+}
+#detail{
+    background-color:moccasin;
+    width: 40%;
+    height: 250px;
+    padding: 10px;
+    text-align: center;
+}
